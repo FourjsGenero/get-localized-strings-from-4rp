@@ -1,0 +1,2 @@
+# get-localized-strings-from-4rp
+Need came up to localize a number of 2.40 4rp files so put together the attached program to extract the localization strings file versus doing manually.   Was also used to extract strings from 3.00 4rp files as well.  Thought I would share it with the forum.   Might be useful to others until a solution to GST-08839 is provided.  Feel free to modify as your needs require. (This tool was posted to the Four Js forum by Keith Y.)
